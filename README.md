@@ -1,4 +1,4 @@
-[!logo](https://github.com/RIDHAM1553/Ridham_Kalra/blob/main/PROFILE.jpg)
+
 <h1 align="center">Hi , I'm RIDHAM KALRA</h1>
 <h3 align="center">A passionate frontend developer and back-end developer from India</h3>
 
