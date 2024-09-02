@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on E-commerce **THE ELVIS MART**
 
-- 💬 Ask me about **Angular,Android**
+- 💬 Ask me about **Angular-JS,Android**
 
 - 📫 How to reach me **kalraridham.23.mca@iict.indusuni.ac.in**
 
